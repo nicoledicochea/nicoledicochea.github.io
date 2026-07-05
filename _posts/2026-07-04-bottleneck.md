@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Next Bottleneck in AI Coding"
+title: "The Real Bottleneck in AI Coding"
 date: 2026-07-04
 ---
 
@@ -14,7 +14,7 @@ You still have to read the code. Your name is going on it either way.
 
 ---
 
-## The Reality of AI-generated Code
+## The Reality of AI-Generated Code
 
 For years, the bottleneck in software was generation — how quickly a human could produce correct code. That bottleneck is mostly gone.
 
@@ -36,7 +36,6 @@ Over the past year, I’ve found myself building small prototypes around this ex
 
 Neither prototype was about replacing human review. They were both trying to answer the same question: *Out of everything AI just generated, what should I pay attention to first?*
 
-
 ---
 
 ## Where We Go From Here
@@ -53,4 +52,6 @@ I think that earlier moment deserves more attention than it's getting. It's the 
 
 ## The Question I'm Interested In
 
-AI will continue generating more code and humans will continue being responsible for what gets shipped, so I don’t think the interesting question anymore is whether AI can write software. I think it’s how we make the **human checkpoint simpler without removing it**.
+AI will continue generating more code and humans will continue being responsible for what gets shipped, so I don’t think the interesting question anymore is whether AI can write software. I think it’s **how we make the human checkpoint simpler without removing it**.
+
+---
