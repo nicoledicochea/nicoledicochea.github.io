@@ -52,6 +52,8 @@ I think that earlier moment deserves more attention than it's getting. It's the 
 
 ## The Question I'm Interested In
 
-AI will continue generating more code and humans will continue being responsible for what gets shipped, so I don’t think the interesting question anymore is whether AI can write software. I think it’s **how we make the human checkpoint simpler without removing it**.
+AI will continue generating more code and humans will continue being responsible for what gets shipped, so I don’t think the interesting question anymore is whether AI can write software. 
+
+**I think it’s how we make the human checkpoint simpler without removing it**.
 
 ---
