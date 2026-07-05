@@ -38,7 +38,7 @@ That annoyance turned into a couple of small tools — one that flags which part
 
 ---
 
-## The pattern
+## The Pattern
 
 I don't go looking for ideas. I go looking for the thing that's bothering me, and I ask why it's still like this.
 
