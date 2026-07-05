@@ -19,6 +19,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: date
 
+paginate: 8
+paginate_path: /page:num
+
+sources: unpkg
+
 defaults:
   - scope:
       path: ""
