@@ -4,8 +4,6 @@ title: "The Real Bottleneck in AI Coding"
 date: 2026-07-04
 ---
 
-## The Next Bottleneck in AI Coding Isn't Generation. It's Knowing Where to Look.
-
 AI just handed you 500 lines of new code.
 
 Tests pass. The endpoint works when you hit it locally. The UI looks right.
