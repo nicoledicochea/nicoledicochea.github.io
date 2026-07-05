@@ -1,4 +1,10 @@
-# The Next Bottleneck in AI Coding Isn't Generation. It's Knowing Where to Look.
+---
+layout: article
+title: "The Next Bottleneck in AI Coding"
+date: 2026-07-04
+---
+
+## The Next Bottleneck in AI Coding Isn't Generation. It's Knowing Where to Look.
 
 AI just handed you 500 lines of new code.
 
@@ -20,20 +26,18 @@ Tests and manual checks confirm the code *works*. They don't tell you which line
 
 ---
 
-
-
 ## Tackling the Problem
 
 Over the past year, I’ve found myself building small prototypes around this exact moment in the development workflow.
 
 **A pre-PR confidence tool** — something that looks at a fresh diff and flags the handful of changes that actually deserve a closer look: unverified assumptions, missing test coverage, risky business logic, or changes that touch shared code. Not a linter. Just a way to help me know where to start reviewing.
 
-**A PR description generator** —  because good code review starts with good context. It gives future me a record of why I made the change, and gives reviewers a place to start before diving into hundreds of lines of code.
+**A PR description generator** —  because good code review starts with good context. It gives reviewers a place to start before diving into hundreds of lines of code.
 
 Neither prototype was about replacing human review. They were both trying to answer the same question: *Out of everything AI just generated, what should I pay attention to first?*
+
+
 ---
-
-
 
 ## Where We Go From Here
 
@@ -44,6 +48,8 @@ Almost nothing goes toward the moment before either of those: a person, alone, s
 That's the part of the workflow nobody's really building for. Everyone's optimizing the review that happens after code is already out in the open, and skipping the moment that decides whether it gets there in the first place.
 
 I think that earlier moment deserves more attention than it's getting. It's the part of the workflow I keep finding myself building for, whether or not anyone's asked.
+
+---
 
 ## The Question I'm Interested In
 
